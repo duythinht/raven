@@ -1,6 +1,6 @@
 ## Painless consumer & producer for kafka - based on Franz
 
-### Easily to user by define a message struct, that satisfy Marshal, Unmarshaler interfaces
+### Easy to use by define a message struct, that satisfy Marshal, Unmarshaler interfaces
 
 ```go
 
